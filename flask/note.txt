@@ -1,0 +1,28 @@
+Flask Framwork - 
+
+
+1. WSGI -  Web Server Gateway Interface
+2. Jinja 2 Template Engine
+
+
+Flask - Web Framework which is created with the Python Programming language.
+
+
+          |
+          |
+          |
+          |Web Server- Ec2, azure,serverless   (Web App)  -- Flask Framework
+
+
+          protocol -  WSGI (WEb ser Gateway Interface)
+
+
+
+2. Jinja 2 Template Engine-
+
+   Web Template Engine
+         |
+         |
+        Web Template  <-------------------Data Source  --SQL
+                                                        -- MOngoDB
+                                                        -- ML model
